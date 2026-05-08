@@ -73,7 +73,7 @@ npm run dev
 ---
 
 
-## 🌐 Deployment
+##  Deployment
 
 Live Demo : https://shop-zone-ebon.vercel.app/ 
 
