@@ -46,7 +46,7 @@ src/
 
 ---
 
-## ▶ Run Locally
+##  Run Locally
 
 ```bash
 npm install
@@ -75,7 +75,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-This project can be deployed easily using Vercel.
+Live Demo : https://shop-zone-ebon.vercel.app/ 
 
 ---
 
